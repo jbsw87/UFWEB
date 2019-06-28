@@ -1,0 +1,23 @@
+.aboutus{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCD35jUXQzt1VhrXvYSKdo0oK_WiXBdeBHKV9qd327z-qo0RoNg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    overflow-y: auto;  
+    right:100;
+    
+    
+    color: white;
+    font-family: verdana;
+    padding: 0 60px;
+    width: 100%;
+    height: 100%;
+
+}
+.aboutus p{
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 15px;
+   
+
+}
